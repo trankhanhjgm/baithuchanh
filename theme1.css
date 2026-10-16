@@ -1,0 +1,26 @@
+/* Sắc xanh năng động — Analogous / Adobe Color */
+:root {
+  --primary-color: #21D07E;
+  --secondary-color: #21D143;
+  --accent-color: #21AED1;
+  --darker-primary-color: #21D1BB;
+  --text-color: #172C27;
+  --secondary-text: #43554D;
+  --accent-text: #172C27;
+  --light-bg-color: #FFFFFF;
+  --page-bg: #F0F8F5;
+  --heading-color: #102A26;
+  --on-primary: #102A26;
+  --hero-button: #FFFFFF;
+  --hero-button-text: #102A26;
+  --hero-button-hover: #E6FFF4;
+  --board-bg: #21D1BB;
+  --column-bg: #FFFFFFB8;
+  --border-color: #DCE5DF;
+  --feature-one: #21D143;
+  --feature-one-text: #102A26;
+  --feature-two: #21AED1;
+  --feature-two-text: #102A26;
+  --footer-bg: #2DD208;
+  --footer-text: #102A26;
+}

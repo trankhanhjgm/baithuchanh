@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Sắc xanh năng động",
+    "rule": "Analogous",
+    "colors": [
+      "#21D07E",
+      "#21D143",
+      "#21D1BB",
+      "#2DD208",
+      "#21AED1"
+    ]
+  },
+  {
+    "name": "Sắc trầm cân bằng",
+    "rule": "Complementary",
+    "colors": [
+      "#ADEEC5",
+      "#EDB0AD",
+      "#8EAD9A",
+      "#987270",
+      "#3F6E50"
+    ]
+  }
+]

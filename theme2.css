@@ -1,0 +1,26 @@
+/* Sắc trầm cân bằng — Complementary / Adobe Color */
+:root {
+  --primary-color: #3F6E50;
+  --secondary-color: #8EAD9A;
+  --accent-color: #EDB0AD;
+  --darker-primary-color: #294C35;
+  --text-color: #172C27;
+  --secondary-text: #43554D;
+  --accent-text: #172C27;
+  --light-bg-color: #FFFFFF;
+  --page-bg: #F5F4F0;
+  --heading-color: #3F6E50;
+  --on-primary: #FFFFFF;
+  --hero-button: #ADEEC5;
+  --hero-button-text: #173B24;
+  --hero-button-hover: #D1F5DF;
+  --board-bg: #ADEEC5;
+  --column-bg: #FFFFFFBF;
+  --border-color: #DCE5DF;
+  --feature-one: #EDB0AD;
+  --feature-one-text: #282727;
+  --feature-two: #8EAD9A;
+  --feature-two-text: #1B2921;
+  --footer-bg: #987270;
+  --footer-text: #101010;
+}
